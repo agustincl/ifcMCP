@@ -1,6 +1,10 @@
 # ifcMCP
 An MCP server that enables LLM agents to talk with IFC (Industry Foundation Classes) files
 
+## Requiremets
+ - fastmcp==2.14.1
+ - ifcopenshell==0.8.4
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=smartaec/ifcMCP&type=Date)](https://www.star-history.com/#smartaec/ifcMCP&Date)
